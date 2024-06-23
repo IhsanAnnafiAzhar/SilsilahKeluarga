@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name" translatable="false">Family Gem</string>
+    <string name="app_name" translatable="false">Pohon Keluarga</string>
     <string name="tagline">Create your own family tree</string>
     <string name="delete">Delete</string>
     <string name="sure_delete">Are you sure?</string>
@@ -386,7 +386,7 @@
     <string name="edit_id">Edit ID</string>
     <string name="invalid_id">Invalid ID</string>
     <string name="existing_id">Already existing ID</string>
-    <string name="family_gem_premium" translatable="false">Family Gem Premium</string>
+    <string name="family_gem_premium" translatable="false">Pohon Kelarga Premium</string>
     <string name="unlock_function">This feature can be unlocked with Family Gem Premium.</string>
     <string name="lifetime">Lifetime</string>
     <string name="more_premium">More about Premium</string>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="primary">#960F3E</color>
-    <color name="primary_dark">#720426</color>
-    <color name="primary_light">#BE4265</color>
+    <color name="primary">#1F89D1</color>
+    <color name="primary_dark">#043072</color>
+    <color name="primary_light">#42ABBE</color>
     <color name="primary_grayed">#8A6270</color>
     <color name="accent">#E99725</color>
     <color name="accent_medium">#FCC762</color>
@@ -14,7 +14,7 @@
     <color name="text">#000</color>
     <color name="gray_text">#777</color>
     <color name="text_veiled">#AA000000</color>
-    <color name="link">#960F3E</color>
+    <color name="link">#0F2196</color>
     <color name="consumed">#DDD</color>
     <color name="male">#44AAFF</color>
     <color name="female">#FF66DD</color>
